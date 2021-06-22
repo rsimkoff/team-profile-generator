@@ -1,0 +1,31 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "team-profile-generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.1",
+    "jest": "^27.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsimkoff/team-profile-generator.git"
+  },
+  "keywords": [
+    "inquirer"
+  ],
+  "author": "Ryan Simkoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsimkoff/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/rsimkoff/team-profile-generator#readme"
+}
